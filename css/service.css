@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+  .food-section{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.8) 0px 3px 7px -3px;
+  }
+  
+.card{
+    background: #fff;
+    width: 270px;
+    height: 300px;
+}
+.about-section{
+    background-size: 100%;
+    background-color: #fdfdfd;
+   max-width: 100%;
+    padding: 10px 0;
+}
+
+.inner-container{
+    width: 100%;
+    float: left;
+    background-color: #fdfdfd;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+
+}
+.skills{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: space-between;
+    font-size: 13px;
+}
+.hall{
+    width: 260px;
+    background: #fff;
+    height: 400px;
+}
+.room{
+    width: 260px;
+    background: #fff;
+    height: 400px;
+}
+.food{
+    width: 260px;
+    background: #fff;
+    height: 400px;
+}
